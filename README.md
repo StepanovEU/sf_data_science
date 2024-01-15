@@ -1,57 +1,11 @@
-# sf_data_science
-SF homework
-# Проект 0. Угадай число
+# My Data Science project
 
-## Оглавление  
-[1. Описание проекта](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Результаты)    
-[6. Выводы](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Выводы) 
+From the [SkillFactory Data Science from](https://skillfactory.ru/data-scientist).
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+## Проекты
 
-:arrow_up:[к оглавлению](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Оглавление)
+* [Проект 0. Игра: Угадай число](https://github.com/StepanovEU/sf_data_science/tree/main/project_0)
+* [Проект 1. __________________](____) 
+* [Проект 2. __________________](____)
 
-
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
-
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
-
-
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Оглавление)
-
-
-### Этапы работы над проектом  
-....
-
-:arrow_up:[к оглавлению](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Оглавление)
-
-
-### Результаты:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Оглавление)
-
-
-### Выводы:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/StepanovEU/sf_data_science/blob/main/README.md#Оглавление)
-
-
-Если информация по этому
+## Ссылка на резюме
